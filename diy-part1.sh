@@ -17,5 +17,5 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 git checkout openwrt-21.02
-git clone https://github.com/CHN-beta/rkp-ipid package/rkp-ipid
+
 
